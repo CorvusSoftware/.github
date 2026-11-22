@@ -30,7 +30,7 @@ Notre approche privilégie la **séparation des responsabilités**, les **interf
 
 ## Nos projets
 
-### 🎮 Émulation et interopérabilité
+### Émulation et interopérabilité
 
 | Projet | Rôle |
 | :--- | :--- |
@@ -39,7 +39,7 @@ Notre approche privilégie la **séparation des responsabilités**, les **interf
 | **[CorvusRetro](https://github.com/CorvusSoftware/CorvusRetro)** | Frontend **Android natif en C11** : bibliothèque de jeux, commandes tactiles, sauvegardes et chargement de cœurs. |
 | **[CorvusRepository](https://github.com/CorvusSoftware/CorvusRepository)** | Catalogue, validation et distribution indépendante des modules d’émulation compatibles avec CorvusAPI. |
 
-### 🧠 Recherche en IA
+### Recherche en intelligence artificielle
 
 **[CorvusAI](https://github.com/CorvusSoftware/CorvusAI)** explore la création d’un modèle de langage à partir d’une initialisation aléatoire, avec **Python et PyTorch** :
 
